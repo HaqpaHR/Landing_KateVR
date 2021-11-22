@@ -10,7 +10,7 @@ Implement landing page according to [Figma design](https://www.figma.com/file/hh
 
 # DEMO LINK
 
-- [DEMO LINK](https://haqpahr.github.io/KateVRLanding/)
+- [DEMO LINK](https://haqpahr.github.io/Landing_KateVR/)
 
 # Technologies used in project:
 
